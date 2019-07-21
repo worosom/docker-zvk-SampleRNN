@@ -3,13 +3,13 @@
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/morosow/zvk-sample-rnn.svg)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/morosow/zvk-sample-rnn.svg)
 
-Ubuntu 16.04
-CUDA 10.1
-cuDNN 7
-Python 2.7
-Numpy
-Bleeding Edge Theano
-Bleeding Edge Lasagne
+- Ubuntu 16.04
+- CUDA 10.1
+- cuDNN 7
+- Python 2.7
+- Numpy
+- Bleeding Edge Theano
+- Bleeding Edge Lasagne
 
 To pull
 
