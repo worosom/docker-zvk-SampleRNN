@@ -1,10 +1,15 @@
 # Docker Lasagne with python 2.7 and GPU support
 
-cuDNN 5
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/morosow/zvk-sample-rnn.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/morosow/zvk-sample-rnn.svg)
+
+Ubuntu 16.04
+CUDA 10.1
+cuDNN 7
 Python 2.7
-Numpy 1.11.1
-Theano 0.9.0rc3 or 1.0
-Lasagne 0.2.dev1
+Numpy
+Bleeding Edge Theano
+Bleeding Edge Lasagne
 
 To pull
 
